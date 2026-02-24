@@ -6,7 +6,7 @@ class Textwidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("First Assignment",),),
+      appBar: AppBar(title: Text("First",),),
       body: Center(
         child: Text("Hello, Flutter!"),
       ),
